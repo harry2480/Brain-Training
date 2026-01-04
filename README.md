@@ -2,7 +2,7 @@
 
 「まいにち脳活スイッチ」は、1日5分の習慣で頭をシャキッと「オン」にする、シニア向けに最適化された認知機能トレーニング・アプリです。
 計算・記憶・判断など、脳の異なる領域を刺激する5つのミニゲームを、インストール不要でブラウザからすぐに楽しめます。
-URL: [https://harry2480.github.io/Brain-Training/](https://harry2480.github.io/Brain-Training/)
+- URL: [https://harry2480.github.io/Brain-Training/](https://harry2480.github.io/Brain-Training/)
 
 ## 🌟 コンセプト：1日5分、あたまの切り替え
 
